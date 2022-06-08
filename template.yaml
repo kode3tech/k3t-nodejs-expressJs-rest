@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-nodejs-expressJs-rest
   title: NodeJs Express Rest API
-  description: 
+  description: Cria um microserviço com exposição Rest usando nodeJs e ExpressJS
   tags:
     - nodejs
     - rest
     - api
     - backend
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
